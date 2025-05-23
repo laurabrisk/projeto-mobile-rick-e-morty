@@ -1,10 +1,23 @@
 body {
-    background-color: rgba(224, 185, 159, 0.882);
+    background-color: rgba(98, 24, 24, 0.893);
   }
   h1 {
-    color: rgb(92, 11, 11);
-    
-  }
-  .p1 {
-    font-family: Courier New
-  }
+    color: rgb(56, 0, 0);
+ }
+ h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
+p {
+  text-align: center;
+}
+body {
+  background-image: url("Morty.jpg");
+}
