@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(98, 24, 24, 0.893);
+    background-color: #ef5d31;
   }
   h1 {
     color: rgb(56, 0, 0);
@@ -18,6 +18,11 @@ h3 {
 p {
   text-align: center;
 }
-body {
-  background-image: url("Morty.jpg");
+img {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+img {
+  border-radius: 8px;
 }

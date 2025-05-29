@@ -1,9 +1,13 @@
 body{
+  background: linear-gradient(to bottom, black, rgb(231, 218, 30));
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  color:white;
 
-    :gold
 }
 
 h1{
     
-    color:gold
+    color:rgb(255, 217, 0)
 }
