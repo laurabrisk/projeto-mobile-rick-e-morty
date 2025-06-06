@@ -1,8 +1,8 @@
 body {
-    background-color: #ef5d31;
+    background-color: #0c233ce9;
   }
   h1 {
-    color: rgb(56, 0, 0);
+    color: rgb(233, 244, 37);
  }
  h1 {
   text-align: center;
@@ -25,4 +25,14 @@ img {
 }
 img {
   border-radius: 8px;
+}
+p {
+  color: rgb(230, 233, 173);
+}
+h1 {
+  font-style:inherit;
+}
+
+p {
+  font-style:italic;
 }

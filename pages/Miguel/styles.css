@@ -3,11 +3,24 @@ body{
   margin: 0;
   height: 100vh;
   font-family: Arial, sans-serif;
-  color:white;
+  color:rgb(238, 255, 0);
 
 }
 
 h1{
     
     color:rgb(255, 217, 0)
+}
+
+
+h2 {
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+image{
+  text-align: center;
 }
