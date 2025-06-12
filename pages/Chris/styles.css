@@ -1,0 +1,37 @@
+body{
+    background-color: liner-grandient( to bottom,blue,black) !important;
+    margin: 0;
+    height: 100vh;
+    font-family: arial, sans-serif;
+    color: rgb(244, 238, 80)!important;
+}
+
+h1{
+    color: rgb(29, 228, 142) !important;
+
+}
+h2{
+
+    color: rgb(20, 235, 34) !important;
+}
+
+body {
+    background-color: aqua!important;
+}
+
+h1 {
+
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 25%;
+
+}
