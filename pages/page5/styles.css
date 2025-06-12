@@ -1,11 +1,11 @@
 body{
-    background-color: rgba(1, 61, 79, 0.997);
+    background-color: rgba(0, 54, 71, 0.997)!important;
 } 
 h2 {
-    color:rgba(74, 219, 248, 0.949)
+    color:rgba(74, 219, 248, 0.949)!important;
 }
 p {
-    color:rgb(162, 226, 255)
+    color:rgb(162, 226, 255)!important;
 }
 h2 {
     text-align: center;
@@ -20,16 +20,16 @@ h1 {
     text-align: center;
 }
 h1 {
-    color: rgb(168, 248, 255);
+    color: rgb(168, 248, 255)!important;
 }
 h2 {
     font-style: oblique;
 }
 h2{
-    font-size: 50;
+    font-size: 40;
 }
 p {
-    font-size: 20;
+    font-size: 15;
 }
 img {
     display: block;
@@ -43,14 +43,17 @@ img {
     text-align: center;
 }
   h3 {
-    font-size: 40;
+    font-size: 30;
 }
+  h4 {
+    font-size: 15;
+  }
   h3 {
-    color: hsl(190, 100%, 46%);
+    color: hsl(190, 45%, 55%)!important;
 }
   h4 {
      text-align: center;
 }
   h4 {
-    color: rgb(0, 193, 227);
+    color: rgb(104, 172, 185)!important;
 }
