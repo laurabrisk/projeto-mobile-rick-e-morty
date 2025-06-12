@@ -1,4 +1,25 @@
 body{
-
-    background-color: brown;
+    background-color: #b7e4f9ff !important;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
 }
+
+h1{
+    text-align: center !important;
+    color:#82491eff !important;
+}
+
+img{
+
+display: block;
+margin: auto;
+width: 50%;
+}
+
+p{
+    text-align: center;
+}
+
+
+
