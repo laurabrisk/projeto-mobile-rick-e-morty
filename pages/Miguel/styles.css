@@ -1,9 +1,26 @@
 body{
+  background: linear-gradient(to bottom, black, rgb(231, 218, 30));
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  color:rgb(238, 255, 0);
 
-    :gold
 }
 
 h1{
     
-    color:gold
+    color:rgb(255, 217, 0)
+}
+
+
+h2 {
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+image{
+  text-align: center;
 }
