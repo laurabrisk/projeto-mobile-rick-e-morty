@@ -1,8 +1,8 @@
 body {
-    background-color: #0c233ce9;
+    background-color: #0c233ce9!important;
   }
   h1 {
-    color: rgb(233, 244, 37);
+    color: rgb(233, 244, 37)!important;
  }
  h1 {
   text-align: center;
@@ -27,12 +27,15 @@ img {
   border-radius: 8px;
 }
 p {
-  color: rgb(230, 233, 173);
+  color: rgb(230, 233, 173)!important;
 }
 h1 {
-  font-style:inherit;
+  font-style: italic;
 }
 
 p {
   font-style:italic;
+}
+h1{
+  font-size: 30;
 }
