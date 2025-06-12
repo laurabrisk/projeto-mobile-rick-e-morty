@@ -1,22 +1,22 @@
 body{
-    background-color: liner-grandient( to bottom,blue,black) !important;
+    background-color: liner-grandient( to bottom,git rgb(12, 228, 149),black) !important;
     margin: 0;
     height: 100vh;
     font-family: arial, sans-serif;
-    color: rgb(244, 238, 80)!important;
+    color: rgb(3, 16, 164)!important;
 }
 
 h1{
-    color: rgb(29, 228, 142) !important;
+    color: rgba(68, 205, 22, 0.466) !important;
 
 }
 h2{
 
-    color: rgb(20, 235, 34) !important;
+    color: rgb(5, 175, 62) !important;
 }
 
 body {
-    background-color: aqua!important;
+    background-color: rgb(8, 209, 206)!important;
 }
 
 h1 {
