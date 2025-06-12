@@ -8,6 +8,8 @@ body {
 h1 {
     text-align: center !important;
     color: #82491eff !important;
+    font-family: "Rick e morty"!important;
+    color:#1da6bf !important;   
 }
 
 img {
@@ -27,5 +29,5 @@ p {
 }
 
 nav{
-    font-family: "Rick e morty";
+    font-family: "Rick e morty"; 
 }
