@@ -2,4 +2,25 @@ body{
     
     background-color:aquamarine;
 
+
+}
+img {
+
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+@font-face {
+    font-family: "Rick e morty";
+    src: url(./assets/get_schwifty.ttf);
+}
+
+nav {
+    font-family: "Rick e morty";
+    background-color:azure !important;
 }
