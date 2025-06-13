@@ -25,7 +25,7 @@ p {
 
 @font-face {
     font-family: "Rick e morty";
-    src: url(./assets/Rick-and-Morty-Font/get_schwifty.ttf);
+    src: url(./get_schwifty.ttf);
 }
 
 nav {
