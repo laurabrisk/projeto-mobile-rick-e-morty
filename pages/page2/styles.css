@@ -41,3 +41,12 @@ h4 {
  text-align: center;
 
 }
+@font-face {
+    font-family: "Rick e morty";
+    src: url(./assets/get_schwifty.ttf);
+  }
+  
+  nav {
+    font-family: "Rick e morty";
+    background-color:azure !important;
+  }
