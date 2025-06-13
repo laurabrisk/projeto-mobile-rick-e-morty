@@ -30,12 +30,41 @@ p {
   color: rgb(230, 233, 173)!important;
 }
 h1 {
-  font-style:italic;
+  font-style:font-family !important;
 }
 
 p {
   font-style:italic;
 }
 h1{
-  font-size: 20;
+  font-size: 30 !important;
+}
+
+body {
+  font-family: Copperplate, Papyrus, fantasy !important;
+} 
+h1 {
+  color: rgb(239, 239, 239);
+  text-shadow: 1px 1px 2px rgb(50, 255, 14), 0 0 25px rgba(16, 2, 87, 0.859), 0 0 5px rgba(0, 42, 255, 0.996);
+}
+
+img {
+
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+}
+
+@font-face {
+  font-family: "Rick e morty";
+  src: url(./assets/get_schwifty.ttf);
+}
+
+nav {
+  font-family: "Rick e morty";
+  background-color:azure !important;
 }
