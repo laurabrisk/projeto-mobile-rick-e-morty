@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to bottom, rgb(0, 47, 255), rgb(0, 255, 21));
+    margin: 0;
+    
+    font-family: Arial, sans-serif;
+    color: rgb(238, 255, 0);
+  
+  }
+
+  image {
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }

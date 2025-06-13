@@ -30,3 +30,13 @@ img {
   margin: auto;
   width: 50%;
 }
+
+@font-face {
+  font-family: "Rick e morty";
+  src: url(./get_schwifty.ttf);
+}
+
+nav {
+  font-family: "Rick e morty";
+  background-color:azure !important;
+}

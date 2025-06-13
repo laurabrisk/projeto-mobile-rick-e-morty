@@ -1,25 +1,34 @@
-body{
+body {
     background-color: #b7e4f9ff !important;
     gap: 10px;
     display: flex;
     flex-direction: column;
 }
 
-h1{
+h1 {
     text-align: center !important;
-    color:#82491eff !important;
+    color: #82491eff !important;
+    font-family: "Rick e morty" !important;
+    color: #1da6bf !important;
 }
 
-img{
+img {
 
-display: block;
-margin: auto;
-width: 50%;
+    display: block;
+    margin: auto;
+    width: 200%;
 }
 
-p{
+p {
     text-align: center;
 }
 
+@font-face {
+    font-family: "Rick e morty";
+    src: url(./assets/Rick-and-Morty-Font/get_schwifty.ttf);
+}
 
-
+nav {
+    font-family: "Rick e morty";
+    background-color:azure !important;
+}
