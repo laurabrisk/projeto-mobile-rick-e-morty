@@ -3,6 +3,12 @@ body{
     background-color:aquamarine;
 
 
+    h3{
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
 }
 img {
 
@@ -23,4 +29,9 @@ p {
 nav {
     font-family: "Rick e morty";
     background-color:azure !important;
+}
+
+h1{
+ text-align: center;
+ 
 }
