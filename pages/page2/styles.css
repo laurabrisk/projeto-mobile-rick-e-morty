@@ -1,6 +1,43 @@
 body{
-
-    background-color: aqua;
+    background-color: liner-grandient( to bottom,git rgb(12, 228, 149),black) !important;
+    margin: 0;
+    height: 100vh;
+    font-family: arial, sans-serif;
+    color: rgb(3, 16, 164)!important;
 }
 
-    
+h1{
+    color: rgb(87, 212, 9) !important;
+
+}
+h2{
+
+    color: rgb(0, 0, 0) !important;
+}
+
+body {
+    background-color: rgb(8, 209, 206)!important;
+}
+
+h1 {
+
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 25%;
+
+}
+
+h4 {
+
+ text-align: center;
+
+}
