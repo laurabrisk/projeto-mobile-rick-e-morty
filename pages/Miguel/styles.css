@@ -1,6 +1,7 @@
 body {
-  background: rgb(133, 133, 133) !important;
-  margin: 3px;;
+  background: rgb(0, 0, 0) !important;
+  margin: 3px;
+  ;
 
   font-family: Arial, sans-serif;
   color: rgb(238, 255, 0);
@@ -9,13 +10,15 @@ body {
 
 h1 {
 
-  font-family: "Rick e morty"!important;
+  font-family: "Rick e morty" !important;
+  color: rgb(165, 159, 42) !important;
 }
 
 
 h2 {
   text-align: center;
 }
+
 
 h3 {
   text-align: center;
@@ -25,11 +28,6 @@ image {
   text-align: center;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
 
 @font-face {
   font-family: "Rick e morty";
