@@ -1,7 +1,8 @@
 body {
-  background: linear-gradient(to bottom, rgb(0, 38, 255), rgb(231, 218, 30));
-  margin: 0;
-  
+  background: rgb(0, 0, 0) !important;
+  margin: 3px;
+  ;
+
   font-family: Arial, sans-serif;
   color: rgb(238, 255, 0);
 
@@ -9,13 +10,15 @@ body {
 
 h1 {
 
-  color: rgb(255, 217, 0)
+  font-family: "Rick e morty" !important;
+  color: rgb(165, 159, 42) !important;
 }
 
 
 h2 {
   text-align: center;
 }
+
 
 h3 {
   text-align: center;
@@ -25,11 +28,6 @@ image {
   text-align: center;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
 
 @font-face {
   font-family: "Rick e morty";
@@ -38,5 +36,5 @@ img {
 
 nav {
   font-family: "Rick e morty";
-  background-color:azure !important;
+  background-color: rgb(255, 255, 255) !important;
 }
