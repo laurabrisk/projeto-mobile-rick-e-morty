@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient(to bottom, rgb(0, 38, 255), rgb(231, 218, 30));
-  margin: 0;
-  
+  background: rgb(133, 133, 133) !important;
+  margin: 3px;;
+
   font-family: Arial, sans-serif;
   color: rgb(238, 255, 0);
 
@@ -9,7 +9,7 @@ body {
 
 h1 {
 
-  color: rgb(255, 217, 0)
+  font-family: "Rick e morty"!important;
 }
 
 
@@ -38,5 +38,5 @@ img {
 
 nav {
   font-family: "Rick e morty";
-  background-color:azure !important;
+  background-color: rgb(255, 255, 255) !important;
 }
