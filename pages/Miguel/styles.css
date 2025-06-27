@@ -17,15 +17,19 @@ h1 {
 
 h2 {
   text-align: center;
+  color: rgb(165, 159, 42) !important;
 }
 
 
 h3 {
   text-align: center;
+  color: rgb(165, 159, 42) !important;
 }
 
-image {
-  text-align: center;
+img{
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 
