@@ -7,13 +7,14 @@ body{
 }
 
 h1{
-    color: rgb(231, 112, 8) !important;
+    color: rgb(255, 0, 0) !important;
 
 }
 h2{
-
-    color: rgb(6, 73, 173) !important;
+    text-shadow: 4px 4px 7px rgb(77, 255, 1);
+    color: rgb(4, 63, 201) !important;
 }
+
 
 body {
     background-color: rgb(29, 190, 5)!important;
@@ -23,24 +24,25 @@ body {
 }
 
 h1 {
-
-    text-align: center;
-
+    text-shadow: 4px 4px 7px rgb(255, 3, 3);
+    text-align-last: center;
 }
 h2{
+    text-shadow: 4px 4px 7px rgb(34, 255, 0);
     text-align: center;
 
 }
+
 
 img {
   display: block;
   margin: auto;
-  width: 25%;
+  width: 30%;
 
 }
 
 h4 {
-
+ text-shadow: 4px 4px 7px rgb(255, 255, 255);
  text-align: center;
 
 }
@@ -52,20 +54,19 @@ h4 {
   nav {
     font-family: "Rick e morty";
     background-color:azure !important;
-  }
 
-  h1{
+  } 
+  
+
+
+  
+  
+
+  
+  
+
 
     
-  font-family: "Brush Script MT", cursive;
-
-</style>
-</head>
-<body>
-
-<h1>Lorem ipsum dolor sit amet</h1>
-
-    }
 
 
     
