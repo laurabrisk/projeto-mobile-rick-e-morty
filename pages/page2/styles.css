@@ -1,22 +1,25 @@
 body{
-    background-color: liner-grandient( to bottom,git rgb(12, 228, 149),black) !important;
+    background-color: liner-grandient( to bottom,git rgb(39, 170, 166),black) !important;
     margin: 0;
     height: 100vh;
     font-family: arial, sans-serif;
-    color: rgb(3, 16, 164)!important;
+    color: rgb(14, 15, 5)!important;
 }
 
 h1{
-    color: rgb(87, 212, 9) !important;
+    color: rgb(231, 112, 8) !important;
 
 }
 h2{
 
-    color: rgb(0, 0, 0) !important;
+    color: rgb(6, 73, 173) !important;
 }
 
 body {
-    background-color: rgb(8, 209, 206)!important;
+    background-color: rgb(29, 190, 5)!important;
+    gap: 10px;
+    display: flex !important;
+    flex-direction: column;
 }
 
 h1 {
@@ -50,3 +53,20 @@ h4 {
     font-family: "Rick e morty";
     background-color:azure !important;
   }
+
+  h1{
+
+    
+  font-family: "Brush Script MT", cursive;
+
+</style>
+</head>
+<body>
+
+<h1>Lorem ipsum dolor sit amet</h1>
+
+    }
+
+
+    
+  
