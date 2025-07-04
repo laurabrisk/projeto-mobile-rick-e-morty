@@ -1,14 +1,18 @@
 body{
     
-    background-color:aquamarine;
+    background-color: rgb(223, 157, 249);
 
 
-    h3{
-        font-family: 'Courier New', Courier, monospace;
+    p{
+
+        font-family: italic;
+        text-align: center; 
     }
 }
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-family:  "Rick e morty" !important ;
+    color:  rgb(76, 0, 106);
+    text-align: center;
 }
 img {
 
@@ -17,9 +21,8 @@ img {
     width: 50%;
 }
 
-h1 {
-    text-align: center;
-}
+
+
 
 @font-face {
     font-family: "Rick e morty";
