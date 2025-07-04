@@ -12,6 +12,7 @@
     integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
     crossorigin="anonymous"></script>
   <title>Document</title>
+  <script src="./script.js"></script>
 </head>
 
 
@@ -71,35 +72,37 @@
 
   <h1 class="text-center">EVIL MORTY
   </h1>
-
+<div class="superior">
   <img src="a13749a5246f13be5ba8bc5fc325e787.jpg" alt="">
-
+  
+<div class="textos">
   <h2>ESPÉCIE: Humano ciberneticamente aprimorado.</h2>
 
   <h2>Idade:14.</h2>
 
   <h2>STATUS:Vivo</h2>
-
   <h2>OCUPAÇÃO: Presidente da Cidadela; Viajante interdimensional.</h2>
 
   <h2>LOCAL DE ORIGEM: Terra (Dimensão 79).</h2>
-
+</div>
+</div>
+<div class="paragrafos">
   <h2>HISTÓRIA E CARACTERÍSTICAS:</h2>
-  <h3>Evil Morty, como seu nome sugere, é frio, implacável, manipulador, sádico, astuto e excepcionalmente inteligente
+  <h5>Evil Morty, como seu nome sugere, é frio, implacável, manipulador, sádico, astuto e excepcionalmente inteligente
     — quase espelhando a maioria dos Ricks e até mesmo os superando em alguns momentos; a diferença é que Evil Morty
     não se gaba de sua inteligência e geralmente faz o que faz para completar seu objetivo de escapar da Curva
-    Finita Central.</h3>
+    Finita Central.</h5>
 
   <h2>Curiosidades:</h2>
-  <h3>Antes de " Rickmurai Jack ", o nome "Morty Maligno" nunca havia sido mencionado na série: devido às múltiplas
+  <h5>Antes de " Rickmurai Jack ", o nome "Morty Maligno" nunca havia sido mencionado na série: devido às múltiplas
     vozes de Roiland, os episódios com o personagem creditavam Roiland apenas como "Ricks" e "Mortys", e por isso este
     Morty era conhecido apenas como "Morty-tapa" (de sua aparição em " Contadores de Ricks Próximos do Tipo Rick ") e,
     posteriormente, "Presidente Morty" (de " A Confusão de Ricklantis "). Os fãs começaram a se referir a ele como
     "Morty Maligno" como um termo genérico para descrever suas ações – membros da equipe também começaram a se referir a
     ele como "Morty Maligno" logo depois. Em "Rickmurai Jack", o personagem reconhece esse título comentando como suas
     ações o tornam "Maligno", e o Sr. Poopybutthole posteriormente se refere a ele como Morty Maligno na sequência
-    pós-créditos.</h3>
-
+    pós-créditos.</h5>
+  </div>
   <div class="pos-f-t">
     <div class="collapse" id="navbarToggleExternalContent">
       <div class="bg-dark p-4">
@@ -109,7 +112,31 @@
     </div>
   </div>
 
+  <section class="rick-and-morty-section py-5">
+    <header>
+      <h1>Personagens de Rick and Morty</h1>
+      <p>Explore o multiverso com seus personagens favoritos</p>
+  </header>
 
+  <div class="container">
+      <div class="search-container">
+          <input type="text" id="search-input" placeholder="Buscar personagem...">
+          <button id="search-button">Buscar</button>
+      </div>
+
+      <div id="loading" class="loading">Carregando personagens...</div>
+
+      <div id="characters-container" class="characters-grid">
+          <!-- Os cards dos personagens serão inseridos aqui via JavaScript -->
+      </div>
+
+      <div class="pagination">
+          <button id="prev-button" disabled>Anterior</button>
+          <button id="next-button">Próxima</button>
+      </div>
+  </div>
+
+  </section>
 
 </body>
 
