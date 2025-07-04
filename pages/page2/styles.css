@@ -7,42 +7,48 @@ body{
 }
 
 h1{
-    color: rgb(255, 0, 0) !important;
+    color: rgb(14, 136, 40) !important;
 
 }
 h2{
-    text-shadow: 4px 4px 7px rgb(77, 255, 1);
-    color: rgb(4, 63, 201) !important;
+    
+    color: rgb(2, 148, 7) !important;
+}
+
+h4{
+
+    color: bisque;  
 }
 
 
 body {
-    background-color: rgb(29, 190, 5)!important;
+    background-color: rgb(241, 198, 146)!important;
     gap: 10px;
     display: flex !important;
     flex-direction: column;
 }
 
 h1 {
-    text-shadow: 4px 4px 7px rgb(255, 3, 3);
+    
     text-align-last: center;
 }
 h2{
-    text-shadow: 4px 4px 7px rgb(34, 255, 0);
+    
     text-align: center;
 
 }
 
 
 img {
+
   display: block;
   margin: auto;
-  width: 30%;
+  width: 50%;
 
 }
 
 h4 {
- text-shadow: 4px 4px 7px rgb(255, 255, 255);
+ 
  text-align: center;
 
 }
