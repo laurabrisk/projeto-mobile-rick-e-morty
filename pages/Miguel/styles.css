@@ -32,7 +32,7 @@ h5 {
 }
 
 img {
-  width: 28%;
+  width: 45%;
 }
 
 
@@ -190,7 +190,7 @@ padding: 10px;
 
 /* font poppins */
 @font-face {
-  font-family: "Rick e morty";
+  font-family: Rick e morty;
   src: url(./get_schwifty.ttf);
 }
 
