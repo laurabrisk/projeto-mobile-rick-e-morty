@@ -20,23 +20,23 @@ img {
 }
 
 p {
-    text-align: center !important;
-    font-family: 'Poppins', italic !important;
+    text-align: center ;
+    font-family: 'arial', sans-serif;
 }
 
 ul {
 text-align: center;
-font-family: 'Poppins', italic !important;
+font-family: 'arial', sans-serif;
 }
 
 @font-face {
-    font-family: "Rick e morty";
+    font-family: Rick e morty;
     src: url(./get_schwifty.ttf);
 }
 
 nav {
     font-family: "Rick e morty";
-    background-color:azure !important;
+    background-color:azure;
 }
 
 @font-face {
