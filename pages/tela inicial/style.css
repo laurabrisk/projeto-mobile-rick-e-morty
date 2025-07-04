@@ -1,0 +1,17 @@
+body{
+background: linear-gradient(to bottom, #4aff32, #1f8fff);
+height: 100vh;
+}
+
+nav {
+    font-family: "Rick e morty";
+    background-color:azure !important;
+    width: 100%;
+}
+
+@font-face {
+
+    font-family: rick e morty; 
+    src: url(./get_schwifty.ttf);
+
+}
