@@ -1,12 +1,9 @@
-body{
-background: linear-gradient(to bottom, #4aff32, #1f8fff);
-height: 100vh;
-}
 
 nav {
     font-family: "Rick e morty";
     background-color:azure !important;
     width: 100%;
+
 }
 
 @font-face {
@@ -15,3 +12,27 @@ nav {
     src: url(./get_schwifty.ttf);
 
 }
+
+img {
+    display: block;
+    
+    width: 100%; 
+    max-width: 100%;
+    height: auto;
+    margin: auto; /* Centraliza a imagem vertical e horizontalmente */
+
+}
+
+body {
+    background: linear-gradient(to bottom, #4aff32, #1f8fff);
+height: 150vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Garante que o body ocupe pelo menos toda a altura da viewport */
+    margin: 0;
+}
+
+.navbar {
+    flex-shrink: 0; /* Impede que a navbar encolha */
+}
+
