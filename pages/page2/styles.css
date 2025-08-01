@@ -1,79 +1,73 @@
-body{
-    background-color: liner-grandient( to bottom,git rgb(39, 170, 166),black) !impornt;
+body {
+    background-color: liner-grandient(to bottom, git rgb(39, 170, 166), black) !important;
     margin: 0;
     height: 100vh;
     font-family: arial, sans-serif;
-    color: rgb(14, 15, 5)!important;
+    color: rgb(14, 15, 5) !important;
 }
 
-h1{
+h1 {
+    text-align: justify !important;
     color: rgb(14, 136, 40) !important;
-
-}
-h2{
     
-    color: rgb(2, 148, 7) !important;
 }
 
-h4{
+h2 {
+    text-align: justify !important;
+    color: rgb(10, 169, 15) !important;
+    font-variant: small-caps !important;
+    
+}
 
-    color: bisque;  
+h4 {
+    text-align: justify !important; 
+    color: bisque;
+    font-display: large !important;
+    font-variant: small-caps !important;
 }
 
 
 body {
-    background-color: rgb(241, 198, 146)!important;
+    background-color: rgb(241, 198, 146) !important;
     gap: 10px;
     display: flex !important;
     flex-direction: column;
 }
 
 h1 {
-    
+    text-align: justify !important;
     text-align-last: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
 }
-h2{
-    
-    text-align: center;
 
+h2 {
+    text-align: justify !important;
+    text-align: center !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
 }
 
 
 img {
 
-  display: block;
-  margin: auto;
-  width: 50%;
+    display: block;
+    margin: auto;
+    width: 20%;
 
 }
 
 h4 {
- 
- text-align: center;
+    text-align: justify !important;
+    text-align: center;
 
 }
+
 @font-face {
     font-family: "Rick e morty";
     src: url(./assets/get_schwifty.ttf);
-  }
-  
-  nav {
+}
+
+nav {
     font-family: "Rick e morty";
-    background-color:azure !important;
+    background-color: azure !important;
 
-  } 
-  
-
-
-  
-  
-
-  
-  
-
-
-    
-
-
-    
-  
+}
