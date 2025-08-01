@@ -37,6 +37,7 @@ font-family: 'arial', sans-serif;
 nav {
     font-family: "Rick e morty";
     background-color:azure;
+   font-family: "Rick e Morty"!important;
 }
 
 @font-face {
